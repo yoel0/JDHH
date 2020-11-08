@@ -68,9 +68,18 @@ Yes! Check out these solid reads and read them in the following order.
 - 3. Secrets of a JavaScript Ninja Download the PDF here [SecretsOfAJavaScriptNinja](books/SecretsOfTheJavaScriptNinja.pdf).
 
 Additional Books on Grit, Persaverence, Passion, Mindset and Habits that can aid you on your Journey as a Software Engineer and Human.
-- 1. Grit the Power of Passion and Persaverence Download the PDF here [Grit](books/GritThePowerofPassionandPerseverance.pdf).
-- 2. MindSet the New Psychology of Success Download the PDF here [MindSet](books/MindsetTheNewPsychologyofSuccess.pdf).
-- 3. Atomic Habits Download the PDF here [AtomicHabits](books/AtomicHabits.pdf).
+- Grit the Power of Passion and Persaverence Download the PDF here [Grit](books/GritThePowerofPassionandPerseverance.pdf).
+- MindSet the New Psychology of Success Download the PDF here [MindSet](books/MindsetTheNewPsychologyofSuccess.pdf).
+- Atomic Habits Download the PDF here [AtomicHabits](books/AtomicHabits.pdf).
 
 ---
+
+## Can you reccomend any paid resource that brings a fantastic for Frontend Development?
+Frontend Masters hands down. You can also get 6 Months free! With githubs education pack.
+- Check it out here [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/).
+
+---
+
+## How Can I connect with Sam and Braidy?
+
 
