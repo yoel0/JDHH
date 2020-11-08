@@ -63,7 +63,7 @@ Absolutely! we use Sli.do it can be found here [Slido](https://app.sli.do/event/
 ## Can you reccomend any good books to read?
 
 Yes! Check out these solid reads and read them in the following order.
-- 1. Eloquent JavaScript Download the PDF here [EloquentJavaScript]().
+- 1. Eloquent JavaScript Download the PDF here [EloquentJavaScript](books/EloquentJavaScript.pdf).
 - 2. Effective JavaScript Download the PDF here [EffectiveJavaScript]().
 - 3. Secrets of a JavaScript Ninja Download the PDF here [SecretsOfAJavaScriptNinja]().
 
