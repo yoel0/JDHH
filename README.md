@@ -65,7 +65,7 @@ Absolutely! we use Sli.do it can be found here [Slido](https://app.sli.do/event/
 Yes! Check out these solid reads and read them in the following order.
 - 1. Eloquent JavaScript Download the PDF here [EloquentJavaScript](books/EloquentJavaScript.pdf).
 - 2. Effective JavaScript Download the PDF here [EffectiveJavaScript](books/EffectiveJavaScript.pdf).
-- 3. Secrets of a JavaScript Ninja Download the PDF here [SecretsOfAJavaScriptNinja](books/SecretsOfTheJavaScriptNinja2nd Edition.pdf).
+- 3. Secrets of a JavaScript Ninja Download the PDF here [SecretsOfAJavaScriptNinja](books/SecretsOfTheJavaScriptNinja.pdf).
 
 Additional Books on Grit, Persaverence, Passion, Mindset and Habits that can aid you on your Journey as a Software Engineer and Human.
 - 1. Grit the Power of Passion and Persaverence Download the PDF here [Grit](books/GritThePowerofPassionandPerseverance.pdf).
