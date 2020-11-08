@@ -60,4 +60,17 @@ Absolutely! we use Sli.do it can be found here [Slido](https://app.sli.do/event/
 
 ---
 
+## Can you reccomend any good books to read?
+
+Yes! Check out these solid reads and read them in the following order.
+- 1. Eloquent JavaScript Download the PDF here [EloquentJavaScript]().
+- 2. Effective JavaScript Download the PDF here [EffectiveJavaScript]().
+- 3. Secrets of a JavaScript Ninja Download the PDF here [SecretsOfAJavaScriptNinja]().
+
+Additional Books on Grit, Persaverence, Passion, Mindset and Habits that can aid you on your Journey as a Software Engineer and Human.
+- 1. Grit the Power of Passion and Persaverence Download the PDF here [Grit]().
+- 2. MindSet the New Psychology of Success Download the PDF here [MindSet]().
+- 3. Atomic Habits Download the PDF here [AtomicHabits]().
+
+---
 
