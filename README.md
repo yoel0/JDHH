@@ -49,14 +49,14 @@ Absolutely! Check each event on Meetup for the link to ask questions.
 ## Can you reccomend any good books to read?
 
 Yes! Check out these solid reads and read them in the following order.
-- 1. Eloquent JavaScript Download the PDF here [EloquentJavaScript](books/EloquentJavaScript.pdf).
-- 2. Effective JavaScript Download the PDF here [EffectiveJavaScript](books/EffectiveJavaScript.pdf).
-- 3. Secrets of a JavaScript Ninja Download the PDF here [SecretsOfAJavaScriptNinja](books/SecretsOfTheJavaScriptNinja.pdf).
+- 1. https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/
+- 2. https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182/
+- 3. https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/
 
 Additional Books on Grit, Persaverence, Passion, Mindset and Habits that can aid you on your Journey as a Software Engineer and Human.
-- Grit the Power of Passion and Persaverence Download the PDF here [Grit](books/GritThePowerofPassionandPerseverance.pdf).
-- MindSet the New Psychology of Success Download the PDF here [MindSet](books/MindsetTheNewPsychologyofSuccess.pdf).
-- Atomic Habits Download the PDF here [AtomicHabits](books/AtomicHabits.pdf).
+- https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/
+- https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/
+- https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH/
 
 ---
 
