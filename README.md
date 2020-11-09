@@ -74,7 +74,7 @@ Additional Books on Grit, Persaverence, Passion, Mindset and Habits that can aid
 
 ---
 
-## Can you reccomend any paid resource that brings a fantastic for Frontend Development?
+## Can you reccomend any paid resource that brings a fantastic knowledge base for Frontend Development?
 Frontend Masters hands down. You can also get 6 Months free! With githubs education pack.
 - Check it out here [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/).
 
