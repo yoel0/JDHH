@@ -49,19 +49,20 @@ Absolutely! Check each event on Meetup for the link to ask questions.
 ## Can you reccomend any good books to read?
 
 Yes! Check out these solid reads and read them in the following order.
-- 1. Eloquent JavaScript By Marijn Haverbeke https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/
-- 2. Effective JavaScript By David Herman https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182/
-- 3. Secrets of a JavaScript Ninja By John Resig https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/
+- 1. Eloquent JavaScript By Marijn Haverbeke <br> https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/
+- 2. Effective JavaScript By David Herman <br> https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182/
+- 3. Secrets of a JavaScript Ninja By John Resig <br> https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/
 
 Additional Books on Grit, Persaverence, Passion, Mindset and Habits that can aid you on your Journey as a Software Engineer and Human.
-- Grit The Power of Passion and Perseverance By Angela Duckworth https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/
-- Mindset The New Psychology of Success By Carol S. Dweck, Ph.D https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/
-- Atomic Habits By James Clear https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH/
+- Grit The Power of Passion and Perseverance By Angela Duckworth <br> https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/
+- Mindset The New Psychology of Success By Carol S. Dweck, Ph.D <br> https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/
+- Atomic Habits By James Clear <br> https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH/
 
 ---
 
 ## Can you recommend any resources for Frontend Development?
-- Frontend Masters https://frontendmasters.com/. You can get 6 Months free with GitHub Student Developer Pack https://frontendmasters.com/welcome/github-student-developers/.
+- Frontend Masters https://frontendmasters.com/. <br>
+You can get 6 Months free with GitHub Student Developer Pack https://frontendmasters.com/welcome/github-student-developers/.
 - Egghead https://egghead.io/
 
 ---
