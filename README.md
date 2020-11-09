@@ -94,8 +94,8 @@ Frontend Masters hands down. You can also get 6 Months free! With githubs educat
 
 **Links to Bookmark**
 
-JDHH Meetup Group [here](https://www.meetup.com/Junior-Developer-Happy-Hour/).
-Slido AMA Ask Me Anything [here](https://app.sli.do/event/t4z2vsn3/live/questions).
-The FAQ Repository [here](https://github.com/yoel0/JDHH).
+- JDHH Meetup Group [here](https://www.meetup.com/Junior-Developer-Happy-Hour/).
+- Slido AMA Ask Me Anything [here](https://app.sli.do/event/t4z2vsn3/live/questions).
+- The FAQ Repository [here](https://github.com/yoel0/JDHH).
 
-
+# HAPPY CODING! #JDHH FAM
