@@ -8,55 +8,41 @@
 ---
 
 ## What is JDHH about?
-JDHH was founded by Steven "Sam" Miyakawa and Braidy Merkle, two Senior Software Engineers who wanted to give back to the Developer Community by forming a group to help people on their journey towards becoming Software Engineer's.
-
----
-
-## Who is Steven "Sam" Miyakawa?
-Steven "Sam" Miyakawa is a Senior Software Engineer at Lyft.
-
----
-
-## Who is Braidy Merkle?
-Braidy Merkle is a Senior Software Engineer at Nordstrom Trunk Club.
+JDHH was founded by Sam Miyakawa and Braidy Merkle, two Dev Bootcamp alumni who wanted to give back to the developer community by forming a group to help people on their journey towards becoming software engineers.
 
 ---
 
 ## How can JDHH help me?
-JDHH, once a week invites a Senior Software Engineer and or a Community Content Provider in which Juniors can ask them any questions related to their Journey, Code itself as a subject or Resources that can be used to help advance a Juniors skillsets and knowledge.
-In addition to this JDHH offers the rare AMA (Ask Me Anything) Format which allows a Junior the opportunity to ask their Seniors anything.
-It is a priceless setting to where a Junior can actually approach an established Senior and learn from their knowledge and experience!
+JDHH is done in an AMA (Ask Me Anything) format which allows anyone the opportunity to ask Sam, Braidy and their guests anything. Every meetup features a different guest to try to get varied perspectives from people in the industry.
 
 ---
 
 ## How can I join the JDHH community?
-- Great Question! you can join the Meet up group for FREE here [JDHH Group](https://www.meetup.com/Junior-Developer-Happy-Hour/).
-And RSVP for future events.
-- Subscribe to Braidy's Youtube Channel where all Meet ups are recorded, as well as some awesome additional content here [YouTube](https://www.youtube.com/c/BraidyMerkle/featured).
+- Great Question! You can join the Meetup group https://www.meetup.com/Junior-Developer-Happy-Hour/.
 
 ---
 
-## I missed a JDHH Meet up, Are Meetings Recorded?
-Yes! you can find all recorded sessions here on Braidy's [YouTube](https://www.youtube.com/c/BraidyMerkle/featured) Channel.
+## Are the meetups recorded?
+Yes! you can find all recorded sessions on Braidy's YouTube Channel https://www.youtube.com/c/BraidyMerkle.
 
 ---
 
-## Where can I submit questions I have for a Meet up, and can I ask ahead of the scheduled Meet up?
+## Where can I submit questions I have for a meetup?
 
-Absolutely! we use Sli.do it can be found here [Slido](https://app.sli.do/event/bgtbdflr/live/questions).
-- You can ask Anonymously.
-- You can ask before a Meet up, and when the Meet Up convenes your question will be answered.
-- Feel free to visit the Slido as much as you'd like to jot down questions you have that you may not want to forget!
+Absolutely! Check each event on Meetup for the link to ask questions.
+- You can ask anonymously.
+- You can ask before a meetup or during the meetup.
+- You can upvote questions others have asked.
 
 ---
 
-## What are some good coding resources to practice my skills?
+## What are some good resources to practice algos and data structures?
 
-- Edabit's Coding Challenge Platform FREE here [Edabit](https://edabit.com/).
-- LeetCodes Coding Challenge Platform FREE here [LeetCode](https://leetcode.com/).
-- Code War's Coding Challenge Platform FREE here [CodeWars](https://www.codewars.com/).
-- HackerRank Coding Challenge Platform FREE here [HackerRank](https://www.hackerrank.com/).
-- CodeSignals Coding Challenge Platform FREE here [CodeSignal](https://codesignal.com/).
+- Edabit https://edabit.com/
+- LeetCode https://leetcode.com/
+- Codewars https://www.codewars.com/
+- HackerRank https://www.hackerrank.com/
+- CodeSignal https://codesignal.com/
 
 ---
 
@@ -74,28 +60,21 @@ Additional Books on Grit, Persaverence, Passion, Mindset and Habits that can aid
 
 ---
 
-## Can you reccomend any paid resource that brings a fantastic knowledge base for Frontend Development?
-Frontend Masters hands down. You can also get 6 Months free! With githubs education pack.
-- Check it out here [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/).
+## Can you recommend any resources for Frontend Development?
+- Frontend Masters https://frontendmasters.com/. You can get 6 Months free with GitHub Student Developer Pack https://frontendmasters.com/welcome/github-student-developers/.
+- Egghead https://egghead.io/
 
 ---
 
 ## How can I connect with Sam and Braidy?
 
-> Steven "Sam" Miyakawa
-- Twitter [here](https://twitter.com/SamSamskies).
-- Linkedin [here](https://www.linkedin.com/in/samsamskies/).
+> Sam Miyakawa
+- Twitter https://twitter.com/SamSamskies
+- LinkedIn https://www.linkedin.com/in/samsamskies/
 
 > Braidy Merkle
-- YouTube [here](https://www.youtube.com/c/BraidyMerkle/featured).
-- Linkedin [here](https://www.linkedin.com/in/braidy-merkle/).
+- Twitter https://twitter.com/BraidyMerkle
+- LinkedIn https://www.linkedin.com/in/braidy-merkle/
 
----
-
-**Links to Bookmark**
-
-- JDHH Meetup Group [here](https://www.meetup.com/Junior-Developer-Happy-Hour/).
-- Slido AMA Ask Me Anything [here](https://app.sli.do/event/t4z2vsn3/live/questions).
-- The FAQ Repository [here](https://github.com/yoel0/JDHH).
 
 # HAPPY CODING! #JDHH FAM
