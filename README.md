@@ -80,6 +80,22 @@ Frontend Masters hands down. You can also get 6 Months free! With githubs educat
 
 ---
 
-## How Can I connect with Sam and Braidy?
+## How can I connect with Sam and Braidy?
+
+> Steven "Sam" Miyakawa
+- Twitter [here](https://twitter.com/SamSamskies).
+- Linkedin [here](https://www.linkedin.com/in/samsamskies/).
+
+> Braidy Merkle
+- YouTube [here](https://www.youtube.com/c/BraidyMerkle/featured).
+- Linkedin [here](https://www.linkedin.com/in/braidy-merkle/).
+
+---
+
+**Links to Bookmark**
+
+JDHH Meetup Group [here](https://www.meetup.com/Junior-Developer-Happy-Hour/).
+Slido AMA Ask Me Anything [here](https://app.sli.do/event/t4z2vsn3/live/questions).
+The FAQ Repository [here](https://github.com/yoel0/JDHH).
 
 
